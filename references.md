@@ -22,6 +22,6 @@
 * [Deep Learning with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-video) - Professional video course to teach TensorFlow through building a real machine learning model to recognize fonts.
 * Keras in Motion (upcoming Summer 2017 from Manning Publications) - Professional video course to teach Keras through real projects in self-driving cars, font recognition, and autoencoders.
 * [DanDoesData](youtube.com/user/dvbuntu) - YouTube channel to livestream data science techniques, tools, and research.  Past shows have built self-driving cars, generated Shakespearean text, and more.
-* [Compute: A Guide to Effective Computing](dvbuntu.github.io/compute) - E-book guide to a better workflow for data science.  Alternative to JuPyter notebooks that enables greater focus.
-* [Workflow Wisdom](dvbuntu.github.io/wisdom) - Blog explaining DanDoesData livestreams of machine learning and general computing.
+* [Compute: A Guide to Effective Computing](dvbuntu.github.io/compute/) - E-book guide to a better workflow for data science.  Alternative to JuPyter notebooks that enables greater focus.
+* [Workflow Wisdom](dvbuntu.github.io/wisdom/) - Blog explaining DanDoesData livestreams of machine learning and general computing.
 * [Fair Use Building And Research Labs](fubarlabs.org) - New Brunswick maker space focused on developing electronics, machining, music, cosplaying, and data science.
